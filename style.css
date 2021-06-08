@@ -1,0 +1,85 @@
+body {
+    background-color: lightpink;
+}
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+h2 {
+    color: darkblue;
+}
+
+h3 {
+    color: floralwhite;
+}
+
+h4 {
+    color: fuchsia;
+}
+
+para {
+    colour: navy;
+    text-align: center;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+    border-color: brown;
+}
+
+.menu {
+    float: right;
+    top: 20px;
+    right: 30px;
+}
+
+h6 {
+    color: blueviolet;
+    font-size: 30
+}
+
+body {
+    background-color: lightpink;
+}
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+h2 {
+    color: darkblue;
+}
+
+h3 {
+    color: floralwhite;
+}
+
+h4 {
+    color: fuchsia;
+}
+
+para {
+    colour: navy;
+    text-align: center;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+    border-color: brown;
+}
+
+.menu {
+    float: right;
+    top: 20px;
+    right: 30px;
+}
+
+h6 {
+    color: blueviolet;
+    font-size: 30
+}
